@@ -1,0 +1,4 @@
+.mid-layout{
+    display: flex;
+    flex-direction: row;
+}

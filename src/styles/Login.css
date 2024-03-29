@@ -1,0 +1,60 @@
+/*custome */
+.center{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn-view{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    width: 25.5rem;
+    height: 1.5rem;
+}
+#sign-in-btn{
+    margin-right: 30px;
+    margin-left: auto; 
+}
+#sign-up-btn{
+   margin-right: auto; 
+   margin-left: auto;
+}
+.container{
+    background-color: azure;
+    margin-top: 10%
+}
+.form-container{
+    background-color: aquamarine;
+    width: 30vw;
+    height: 50vh;
+    border: 2px black 1px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+label{
+    margin-left: auto;
+    /* padding-left: auto; */
+    padding-right: 10px;
+    margin-top: 10px;
+}
+.submit-btn{
+    background-color: cadetblue;
+    width: 5rem;
+    margin-top: 20px;
+    border-radius: 4px;
+}
